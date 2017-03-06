@@ -1,0 +1,18 @@
+{
+  "name": "almundo_capacitacion",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "gulp build",
+    "start": "node server.js"
+  },
+  "author": "Almundo",
+  "license": "",
+  "dependencies": {
+    "express": "^4.5.1",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-nodemon": "^1.0.4"
+  }
+}
